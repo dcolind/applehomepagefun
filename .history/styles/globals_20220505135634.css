@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-color{
+    background: darkslategray;
+}
+
+.nav-margin{
+    margin-left: 12.5%;
+}
+
+.iphone-image
